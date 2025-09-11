@@ -35,3 +35,15 @@ I have started a **new pattern of problem-solving**, where I will be:
 1. Clone the repo  
    ```bash
    git clone https://github.com/anurag4002/DSA-Problems.git
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
