@@ -50,4 +50,8 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anurag4002/DSA-Problems/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/anurag4002/DSA-Problems/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
