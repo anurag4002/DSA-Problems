@@ -46,4 +46,8 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/anurag4002/DSA-Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
