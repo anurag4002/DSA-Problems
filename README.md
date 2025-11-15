@@ -41,6 +41,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anurag4002/DSA-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 ## Binary Search
 |  |
@@ -54,4 +55,12 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/anurag4002/DSA-Problems/tree/master/0610-triangle-judgement) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/anurag4002/DSA-Problems/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/anurag4002/DSA-Problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
