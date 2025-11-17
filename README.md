@@ -43,10 +43,12 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0015-3sum](https://github.com/anurag4002/DSA-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +65,12 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anurag4002/DSA-Problems/tree/master/0015-3sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
