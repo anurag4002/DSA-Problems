@@ -9,10 +9,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 - ✅ Solving **problems daily** (Easy → Medium)  
 - ✅ Uploading clean, well-documented solutions  
 - ✅ Tracking my progress step by step  
-- ✅ Improving problem-solving and coding consistency  
-
----
-
+- ✅ Improving problem-solving and coding consistency 
 
 ---
 
