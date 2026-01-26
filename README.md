@@ -78,4 +78,8 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anurag4002/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
