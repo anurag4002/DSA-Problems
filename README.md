@@ -11,7 +11,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 - ✅ Tracking my progress step by step  
 - ✅ Improving problem-solving and coding consistency 
 
----
+---------
 
 ## 📌 Problem Tracker (Sample)
 
