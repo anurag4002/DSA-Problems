@@ -67,6 +67,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/anurag4002/DSA-Problems/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -90,6 +91,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/anurag4002/DSA-Problems/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
