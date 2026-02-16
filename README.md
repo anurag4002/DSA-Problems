@@ -25,7 +25,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 
 👉 This table will keep growing as I continue solving problems daily.
 
----
+-------
 
 ## 🔥 How to Run
 
