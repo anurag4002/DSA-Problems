@@ -1,7 +1,7 @@
 # DSA-Problems
 Practice problems on Data Structures and Algorithms in JAVA.
 # 🚀 DSA-Problems
-
+      
 Welcome to my **DSA Problem-Solving Journey** 👨‍💻  
 This repository is my personal space where I solve **Data Structures and Algorithms (DSA)** problems in **Java**
 
@@ -11,7 +11,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 - ✅ Tracking my progress step by step  
 - ✅ Improving problem-solving and coding consistency 
 
----------
+-----------------------
 
 ## 📌 Problem Tracker (Sample)
 
