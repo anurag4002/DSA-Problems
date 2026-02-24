@@ -40,6 +40,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0015-3sum](https://github.com/anurag4002/DSA-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag4002/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
@@ -113,4 +114,12 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag4002/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
