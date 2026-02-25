@@ -82,6 +82,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0006-zigzag-conversion](https://github.com/anurag4002/DSA-Problems/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/anurag4002/DSA-Problems/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/anurag4002/DSA-Problems/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/anurag4002/DSA-Problems/tree/master/0696-count-binary-substrings) |
