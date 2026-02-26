@@ -52,6 +52,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anurag4002/DSA-Problems/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/anurag4002/DSA-Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
 ## Database
 |  |
@@ -119,8 +120,13 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/anurag4002/DSA-Problems/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anurag4002/DSA-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
