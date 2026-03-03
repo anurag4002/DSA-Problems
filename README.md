@@ -53,6 +53,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anurag4002/DSA-Problems/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/anurag4002/DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/anurag4002/DSA-Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
 ## Database
@@ -102,6 +103,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anurag4002/DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/anurag4002/DSA-Problems/tree/master/0190-reverse-bits) |
 ## Simulation
