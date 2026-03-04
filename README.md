@@ -40,6 +40,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0015-3sum](https://github.com/anurag4002/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anurag4002/DSA-Problems/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/anurag4002/DSA-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag4002/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -65,6 +66,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0015-3sum](https://github.com/anurag4002/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anurag4002/DSA-Problems/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/anurag4002/DSA-Problems/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/anurag4002/DSA-Problems/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/anurag4002/DSA-Problems/tree/master/0696-count-binary-substrings) |
 ## Sorting
