@@ -42,6 +42,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0016-3sum-closest](https://github.com/anurag4002/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/anurag4002/DSA-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/anurag4002/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag4002/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -83,6 +84,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anurag4002/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -142,4 +144,8 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anurag4002/DSA-Problems/tree/master/0010-regular-expression-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/anurag4002/DSA-Problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
