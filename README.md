@@ -43,6 +43,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0031-next-permutation](https://github.com/anurag4002/DSA-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/anurag4002/DSA-Problems/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag4002/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -148,4 +149,8 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anurag4002/DSA-Problems/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
