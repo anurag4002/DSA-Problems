@@ -42,6 +42,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0016-3sum-closest](https://github.com/anurag4002/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/anurag4002/DSA-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/anurag4002/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
@@ -51,6 +52,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anurag4002/DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
