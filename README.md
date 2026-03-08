@@ -46,6 +46,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0036-valid-sudoku](https://github.com/anurag4002/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/anurag4002/DSA-Problems/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag4002/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
@@ -155,4 +156,5 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/anurag4002/DSA-Problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
