@@ -107,6 +107,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anurag4002/DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anurag4002/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Bit Manipulation
 |  |
@@ -148,6 +149,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anurag4002/DSA-Problems/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/anurag4002/DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
 ## Hash Table
 |  |
 | ------- |
