@@ -96,6 +96,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0006-zigzag-conversion](https://github.com/anurag4002/DSA-Problems/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/anurag4002/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/anurag4002/DSA-Problems/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/anurag4002/DSA-Problems/tree/master/0344-reverse-string) |
@@ -135,6 +136,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anurag4002/DSA-Problems/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/anurag4002/DSA-Problems/tree/master/0062-unique-paths) |
 ## Greedy
@@ -157,6 +159,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anurag4002/DSA-Problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
