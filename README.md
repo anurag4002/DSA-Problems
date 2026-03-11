@@ -99,12 +99,14 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0022-generate-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/anurag4002/DSA-Problems/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/anurag4002/DSA-Problems/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/anurag4002/DSA-Problems/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/anurag4002/DSA-Problems/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/anurag4002/DSA-Problems/tree/master/0071-simplify-path) |
 ## Linked List
 |  |
 | ------- |
