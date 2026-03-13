@@ -60,6 +60,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0009-palindrome-number](https://github.com/anurag4002/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/anurag4002/DSA-Problems/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/anurag4002/DSA-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anurag4002/DSA-Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
 ## Database
@@ -154,6 +155,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anurag4002/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/anurag4002/DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/anurag4002/DSA-Problems/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
