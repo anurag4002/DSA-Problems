@@ -60,6 +60,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0009-palindrome-number](https://github.com/anurag4002/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/anurag4002/DSA-Problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/anurag4002/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/anurag4002/DSA-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anurag4002/DSA-Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
@@ -99,6 +100,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0020-valid-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/anurag4002/DSA-Problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/anurag4002/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/anurag4002/DSA-Problems/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/anurag4002/DSA-Problems/tree/master/0344-reverse-string) |
@@ -122,6 +124,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anurag4002/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
 ## Tree
 |  |
