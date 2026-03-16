@@ -49,6 +49,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0046-permutations](https://github.com/anurag4002/DSA-Problems/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag4002/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anurag4002/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0050-powx-n](https://github.com/anurag4002/DSA-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anurag4002/DSA-Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/anurag4002/DSA-Problems/tree/master/0067-add-binary) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anurag4002/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -81,6 +83,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0015-3sum](https://github.com/anurag4002/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anurag4002/DSA-Problems/tree/master/0016-3sum-closest) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anurag4002/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +95,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0036-valid-sudoku](https://github.com/anurag4002/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anurag4002/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -169,4 +173,12 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0022-generate-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anurag4002/DSA-Problems/tree/master/0046-permutations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anurag4002/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anurag4002/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 <!---LeetCode Topics End-->
