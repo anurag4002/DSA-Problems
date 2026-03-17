@@ -60,6 +60,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anurag4002/DSA-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/anurag4002/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anurag4002/DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/anurag4002/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/anurag4002/DSA-Problems/tree/master/0050-powx-n) |
@@ -101,6 +102,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | ------- |
 | [0006-zigzag-conversion](https://github.com/anurag4002/DSA-Problems/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/anurag4002/DSA-Problems/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/anurag4002/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/anurag4002/DSA-Problems/tree/master/0038-count-and-say) |
@@ -166,6 +168,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anurag4002/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/anurag4002/DSA-Problems/tree/master/0036-valid-sudoku) |
 ## Backtracking
 |  |
