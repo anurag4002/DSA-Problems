@@ -74,6 +74,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anurag4002/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/anurag4002/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anurag4002/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/anurag4002/DSA-Problems/tree/master/0031-next-permutation) |
@@ -100,6 +101,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anurag4002/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/anurag4002/DSA-Problems/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/anurag4002/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/anurag4002/DSA-Problems/tree/master/0013-roman-to-integer) |
@@ -147,6 +149,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anurag4002/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anurag4002/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
