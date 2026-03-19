@@ -47,6 +47,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0040-combination-sum-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anurag4002/DSA-Problems/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/anurag4002/DSA-Problems/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag4002/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anurag4002/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -153,11 +154,13 @@ I have started a **new pattern of problem-solving**, where I will be:
 | [0010-regular-expression-matching](https://github.com/anurag4002/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anurag4002/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/anurag4002/DSA-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anurag4002/DSA-Problems/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anurag4002/DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/anurag4002/DSA-Problems/tree/master/0055-jump-game) |
 ## Combinatorics
 |  |
 | ------- |
