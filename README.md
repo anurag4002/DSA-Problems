@@ -16,7 +16,7 @@ I have started a **new pattern of problem-solving**, where I will be:
 ## 📌 Problem Tracker (Sample)
 
 | #   | Problem Name              | Topic   | Difficulty | Solution Link |
-|-----|---------------------------|---------|------------|---------------|
+|-----|---------------------------|---------|------------
 | 1   | Check if Array is Sorted  | Arrays  | Easy       | [Java](02_Arrays/Easy/CheckIfArraySorted.java) |
 | 2   | Two Sum                   | Arrays  | Easy       | [Java](02_Arrays/Easy/TwoSum.java) |
 | 3   | Rotate Array              | Arrays  | Medium     | [Java](02_Arrays/Medium/RotateArray.java) |
